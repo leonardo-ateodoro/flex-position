@@ -7,7 +7,31 @@
   scroll-behavior: smooth;
  }
 
- .content-nosso-time, content-cursos, .content-faq, 
+ .content-nosso-time,.content-cursos, .content-faq, .content-contato {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: beige;
+ }
+
+ .content-nosso-time{
+  background-color: chocolate;
+ }
+ 
+ .content-cursos{
+  background-color: chartreuse;
+ }
+
+ .content-faq{
+  background-color: darkorange;
+ }
+
+ .content-contato{
+  background-color: deeppink;
+ }
 
 /* Header fixo no topo, largura 100%, com sombra e fundo branco */
 .header {
