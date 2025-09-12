@@ -1,0 +1,19 @@
+{
+  "name": "flex-position",
+  "version": "1.0.0",
+  "description": "Estudos sobre o display-flex, position e tags semânticas.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "position",
+    "diplay",
+    "flex",
+    "semântico",
+    "html",
+    "css"
+  ],
+  "author": "Ivo",
+  "license": "ISC"
+}
