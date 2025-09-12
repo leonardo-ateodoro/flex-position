@@ -3,6 +3,11 @@
  @import url(./cards.css);
  @import url(./footer.css);
 
+ html{
+  scroll-behavior: smooth;
+ }
+
+ .content-nosso-time, content-cursos, .content-faq, 
 
 /* Header fixo no topo, largura 100%, com sombra e fundo branco */
 .header {
