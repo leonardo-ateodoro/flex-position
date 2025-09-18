@@ -1,0 +1,53 @@
+.footer-content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  
+  
+    /* altura do footer */
+    height: 8vh; 
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.101);
+    
+    /* Flex para alinhar os itens horizontalmente */
+    display: flex;
+    /* alinha verticalmente ao centro */
+    align-items: center; 
+    /* espaço entre logo, menu e login */
+    justify-content: space-between; 
+    padding: 0 20px;
+    z-index: 1000; /* fica acima de outros elementos */
+  }
+
+.footer-address {
+
+}
+
+.footer-address__title{
+
+}
+.footer-info{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer-social {
+
+}
+
+.footer-social ul {
+
+}
+
+.footer-social img {
+
+}
+
+.effect-hover{
+
+}
+
